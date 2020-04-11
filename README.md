@@ -8,5 +8,5 @@ I am a senior of Hanyang University ERICA Campus. It's my first experience deali
 <h1>Team Introduction</h1>  
 <h2>Team Name</h2>
 T2  
-<h2>Team member<h2>
-<div>Lee Uihyeong, Mun Huisang, Hwang Jiwon, dpfprtus AND OOO. (We could not contact each other yet. I will update it.)  </div>
+<h2>Team member</h2>
+Lee Uihyeong, Mun Huisang, Hwang Jiwon, dpfprtus AND OOO. (We could not contact each other yet. I will update it.)
