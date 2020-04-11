@@ -1,9 +1,8 @@
-이름 : 황지원
-학과 : 로봇공학과
-학번 : 2016007274
-로봇공학과 4학년 황지원입니다. 현재, 소프트웨어학부 컴퓨터공학을 다중전공하고 있습니다.
-웹 기술을 다루는것은 처음입니다.
+#Self Introduction 
+##Name : Hwang Jiwon
+##Major : Robot Engineering
+I am a senior of Hanyang University ERICA Campus. It's my first experience dealing with Web technology.
 
-팀명 : T2
-팀원 : 이의형, 문희상, 황지원, dpfprtus 외 1명
-(아직 팀원 전원이 연락되지 않아 팀원명을 전부 기재하지 못하였습니다)
+#Team Introduction
+##Team Name : T2
+##Team member : 이의형, 문희상, 황지원, dpfprtus AND OOO. (We could not contact each other yet. I will update it.)
