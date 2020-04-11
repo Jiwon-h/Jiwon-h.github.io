@@ -9,4 +9,4 @@ I am a senior of Hanyang University ERICA Campus. It's my first experience deali
 <h2>Team Name</h2>
 T2  
 <h2>Team member<h2>
-이의형, 문희상, 황지원, dpfprtus AND OOO. (We could not contact each other yet. I will update it.)  
+Lee Uihyeong, Mun Huisang, Hwang Jiwon, dpfprtus AND OOO. (We could not contact each other yet. I will update it.)  
